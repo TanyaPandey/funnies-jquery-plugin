@@ -30,7 +30,7 @@ $('#funnies').funnies();
 $('#funnies').data('funnies').show();
 ```
 
-Close funny loder
+Close funny loader
 ```javascript
 $('#funnies').data('funnies').hide();
 ```
