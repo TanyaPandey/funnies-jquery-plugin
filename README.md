@@ -34,3 +34,11 @@ Close funny loder
 ```javascript
 $('#funnies').data('funnies').hide();
 ```
+
+## Options
+
+Name | Type | Default | Description
+--- | --- | --- | ---
+interval | int | 8000 (8 sec) | Timer
+customMessages | Array | [] | Array with custom messages
+
