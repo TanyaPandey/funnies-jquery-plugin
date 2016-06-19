@@ -1,0 +1,19 @@
+.funnies {
+    background: #EEE;
+    padding-top: 0.5em;
+    position: relative;
+    height: 7.2em;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #555;
+}
+.funnies-text {
+    transition: opacity 0.2s ease-in;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 1em;
+}
+.funnies-header {
+    text-align: center;
+    font-size: 2em;
+}
