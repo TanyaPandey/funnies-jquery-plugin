@@ -39,6 +39,6 @@ $('#funnies').data('funnies').hide();
 
 Name | Type | Default | Description
 --- | --- | --- | ---
-interval | int | 8000 (8 sec) | Timer
+interval | Number | 8000 (8 sec) | Timer
 customMessages | Array | [] | Array with custom messages
 
