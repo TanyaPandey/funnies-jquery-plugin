@@ -5,7 +5,7 @@ Port from https://github.com/1egoman/funnies.
 
 ## Setup
 
-Include css and js
+Include necessary css/js files
 
 ```html
 <link type="text/css" href="css/funnies.css" rel="stylesheet">
@@ -15,6 +15,11 @@ Include css and js
 Add a div
 ```html
 <div id="funnies"></div>
+```
+## Initialize plugin
+
+```javascript
+$('#funnies').funnies();
 ```
 
 ## Usage
