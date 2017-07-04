@@ -39,7 +39,6 @@ $d.Funnies = function (selector, options) {
         "The bits are flowing slowly today",
         "My other loading screen is much faster.",
         "Are we there yet?",
-        "Counting backwards from Infinity",
         "Do you come here often?",
         "Calculating meaning of life....",
         "This would go faster if I had opposable thumbs...",
